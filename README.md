@@ -1,4 +1,4 @@
-### The dataset and code for our paper:  **[Cooperative Prediction Method Based on Dynamic and Static Representation for Crowdfunding](http://www.jos.org.cn/html/2020/4/5921.htm)** （In Chinese）
+#### The dataset and code for our paper:  **[Cooperative Prediction Method Based on Dynamic and Static Representation for Crowdfunding](http://www.jos.org.cn/html/2020/4/5921.htm)** （In Chinese）
 
 
 
